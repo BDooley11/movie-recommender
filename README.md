@@ -4,6 +4,8 @@ Some analysis of various findings from the dataset and the similarity metrics us
 
 The dataset from MovieLens is stored in the 'dataset' directory.
 
-src->alg->cb is the non personalised recommender.\brsrc->alg->cb is the personalised recommender.
+src->alg->cb is the non personalised recommender.
+
+src->alg->cb is the personalised recommender.
 
 There are a number of scripts with 'test' in the name that can be run to show the accuracy of these recommenders.
